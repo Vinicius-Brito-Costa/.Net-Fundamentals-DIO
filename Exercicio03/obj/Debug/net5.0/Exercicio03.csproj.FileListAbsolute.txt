@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\Exercicio03\obj\Debug\net5.0\Exercicio03.csprojAssemblyReference.cache
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\Exercicio03\obj\Debug\net5.0\Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\Exercicio03\obj\Debug\net5.0\Exercicio03.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\Exercicio03\obj\Debug\net5.0\Exercicio03.AssemblyInfo.cs
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\Exercicio03\obj\Debug\net5.0\Exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\Exercicio03\bin\Debug\net5.0\Exercicio03.exe
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\Exercicio03\bin\Debug\net5.0\Exercicio03.deps.json
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\Exercicio03\bin\Debug\net5.0\Exercicio03.runtimeconfig.json
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\Exercicio03\bin\Debug\net5.0\Exercicio03.runtimeconfig.dev.json
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\Exercicio03\bin\Debug\net5.0\Exercicio03.dll
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\Exercicio03\bin\Debug\net5.0\ref\Exercicio03.dll
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\Exercicio03\bin\Debug\net5.0\Exercicio03.pdb
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\Exercicio03\obj\Debug\net5.0\Exercicio03.dll
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\Exercicio03\obj\Debug\net5.0\ref\Exercicio03.dll
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\Exercicio03\obj\Debug\net5.0\Exercicio03.pdb
+C:\Users\Vinicius\Documents\Programação\Bootcamp .NET\Exercicio03\obj\Debug\net5.0\Exercicio03.genruntimeconfig.cache
